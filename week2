@@ -1,0 +1,33 @@
+
+
+1. Which of the following statements embeds an image in an HTML document?
+   - <img src="image URL">
+
+2. When defining a hyperlink (<a>), which attribute is used to specify the destination address?
+   - href
+
+3. Which tag CANNOT be used as a container for text? I.e. does not use both an opening <> and closing </> tag
+   - <br>
+
+4. How are comments written in HTML?
+   - <!-- This is a comment -->
+
+5. Which tag is used to denote a cell of data within a table?
+   - <td>
+
+6. Which of the following is NOT an HTML tag?
+   - <!DOCTYPE html>
+
+7. What is the <br> tag used for?
+   - To add a line break
+
+8. Which of the following denotes the least important heading?
+   - <h6>
+
+9. Which tag is used to create an ordered list?
+   - <ol>
+
+10. Which of the following conditions must be met for scripting to be enabled in browsers? Select one or more options.
+   - The user has not disabled scripting for the current browser context
+   - The browser supports scripting
+
