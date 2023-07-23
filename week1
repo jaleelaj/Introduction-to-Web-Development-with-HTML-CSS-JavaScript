@@ -1,0 +1,37 @@
+
+
+1. What is an API?
+   - Code that works with data and provides a mechanism for software to access resources from the back-end
+
+2. When a user tries to login to a website, he/she gets an authentication failure error. Who do you think can fix this error? (Select all that apply)
+   - Back-end Developer
+   - Full-stack Developer
+
+3. In addition to SQL, which tool can help you access databases?
+   - ORM
+
+4. Build automation can automate which of the following tasks? (Select all that apply)
+   - Downloading dependencies
+   - Running tests and deployment to production systems
+
+5. A user has complained that the website is readable on desktop but not on mobile. Who can help solve this problem?
+   - Front-end Developer
+
+6. Which of the following describe a package manager? (Select all that apply)
+   - A way to distribute your pre-packaged application(s)
+   - Takes care of finding, installing, maintaining, or uninstalling software packages
+   - Contains application files, instructions for installation, and metadata
+
+7. Which of the following adds interactivity and dynamic content to a website?
+   - JavaScript
+
+8. Which of these is an open-source server-side platform built on the Google Chrome JavaScript engine and uses an asynchronous single-threaded architecture that allows it to serve a very large number of concurrent connections?
+   - Node.js
+
+9. Which of the following frameworks and libraries are used for front-end? (Select all that apply)
+   - React.js
+   - Vue.js
+   - Angular
+
+10. Which of the following is NOT a required skill for a front-end developer?
+    - Java
